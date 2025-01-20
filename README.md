@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Router DOM v6 where a route is not defined for unmatched paths. The bug causes the app to crash when navigating to an invalid URL. The solution shows how to define a catch-all route to prevent this.
